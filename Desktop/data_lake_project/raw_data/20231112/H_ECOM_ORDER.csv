@@ -1,0 +1,4 @@
+OrderID,CustomerID,Amount,Status
+O1001,101,250,Delivered
+O1002,102,180,Processing
+O1003,103,350,Cancelled
